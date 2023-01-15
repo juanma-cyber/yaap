@@ -1,9 +1,9 @@
 // Enter all your detials in this file
 // Logo images
-import logogradient from "./assets/logo.PNG";
-import logo from "./assets/logo2.PNG";
+import logogradient from "./assets/logo.png";
+import logo from "./assets/logo.png";
 // Profile Image
-import profile from "./assets/profile.PNG";
+import profile from "./assets/profile.png";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
@@ -20,17 +20,22 @@ import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
+import aws from "./assets/techstack/aws.jpg";
+import MySQL from "./assets/techstack/MySQL.png";
+import django from "./assets/techstack/django.png";
+import flask from "./assets/techstack/flask.png";
 
 // Porject Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
-import projectImage4 from "./assets/projects/project4.jpg";
+import projectImage4 from "./assets/projects/project4.webp";
 import projectImage5 from "./assets/projects/project5.jpg";
 import projectImage6 from "./assets/projects/project6.jpg";
 import projectImage7 from "./assets/projects/project7.jpg";
-import projectImage8 from "./assets/projects/project8.png";
+import projectImage8 from "./assets/projects/project8.jpg";
 import projectImage9 from "./assets/projects/project9.jpg";
+
 
 // Logos
 export const logos = {
@@ -43,7 +48,7 @@ export const personalDetails = {
   name: "Juan",
   tagline: "Frontend Dev",
   img: profile,
-  about: `I'm a systems and network technologist, web developer, with more than three years of experience creating websites, online stores, mobile applications, logo design, with JavaScript, HTML5, Tailwind, CSS, Bootstrap, React, php technologies. . , MySQL, Node.js, Wordpress. Graphic design with adobe illustrator, gimp, photoshop, `,
+  about: `I'm a systems and network technologist, web developer, with more than three years of experience creating websites, online stores, mobile applications, logo design, with Python, django, flask, JavaScript, HTML5, Tailwind, CSS, Bootstrap, React, php technologies. . , MySQL, Node.js, AWS, Firebase, Wordpress. Graphic design with adobe illustrator, gimp, photoshop, `,
 };
 
 // Enter your Social Media URLs here
@@ -104,6 +109,10 @@ export const techStackDetails = {
   node : node,
   figma: figma,
   python: python,
+  aws: aws,
+  MySQL: MySQL,
+  django: django,
+  flask: flask,
 };
 
 // Enter your Project Details here
