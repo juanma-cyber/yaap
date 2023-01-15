@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yaap/static/css/main.c43464b0.css",
+    "main.js": "/yaap/static/js/main.4e311301.js",
+    "static/media/project4.webp": "/yaap/static/media/project4.ca0d441bf56c226b232f.webp",
+    "static/media/profile.png": "/yaap/static/media/profile.dd50199c8ad872e2ef08.png",
+    "static/media/project5.jpg": "/yaap/static/media/project5.6d389052b78d414c9828.jpg",
+    "static/media/project3.jpg": "/yaap/static/media/project3.86c6db1d55734ffacc84.jpg",
+    "static/media/project6.jpg": "/yaap/static/media/project6.94c8e2d8abe6cbeee23c.jpg",
+    "static/media/project1.jpg": "/yaap/static/media/project1.bf1514edc87137233d2d.jpg",
+    "static/media/project2.jpg": "/yaap/static/media/project2.a494406856681dc41975.jpg",
+    "static/media/logo.png": "/yaap/static/media/logo.5571f7f9229b67b11371.png",
+    "index.html": "/yaap/index.html",
+    "main.c43464b0.css.map": "/yaap/static/css/main.c43464b0.css.map",
+    "main.4e311301.js.map": "/yaap/static/js/main.4e311301.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c43464b0.css",
+    "static/js/main.4e311301.js"
+  ]
+}
